@@ -1,0 +1,7 @@
+.DS_Store
+*.tmp
+*.log
+*.ino
+backup.html
+hello.html
+smart_poultry.html
